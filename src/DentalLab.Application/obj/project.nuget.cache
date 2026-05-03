@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RE0l3GR722M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\medod\\Downloads\\New folder (4)\\Dental Lap Backend\\src\\DentalLab.Application\\DentalLab.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\medod\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\medod\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

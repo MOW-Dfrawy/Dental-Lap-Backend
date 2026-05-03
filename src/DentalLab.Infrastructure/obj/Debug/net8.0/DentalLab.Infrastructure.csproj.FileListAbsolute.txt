@@ -1,0 +1,34 @@
+C:\Users\medod\Downloads\claude dataannotaion projects\Model-A-Dentallabsys\DentalLabSystem\src\DentalLab.Infrastructure\bin\Debug\net8.0\DentalLab.Infrastructure.deps.json
+C:\Users\medod\Downloads\claude dataannotaion projects\Model-A-Dentallabsys\DentalLabSystem\src\DentalLab.Infrastructure\bin\Debug\net8.0\DentalLab.Infrastructure.dll
+C:\Users\medod\Downloads\claude dataannotaion projects\Model-A-Dentallabsys\DentalLabSystem\src\DentalLab.Infrastructure\bin\Debug\net8.0\DentalLab.Infrastructure.pdb
+C:\Users\medod\Downloads\claude dataannotaion projects\Model-A-Dentallabsys\DentalLabSystem\src\DentalLab.Infrastructure\bin\Debug\net8.0\DentalLab.Application.dll
+C:\Users\medod\Downloads\claude dataannotaion projects\Model-A-Dentallabsys\DentalLabSystem\src\DentalLab.Infrastructure\bin\Debug\net8.0\DentalLab.Domain.dll
+C:\Users\medod\Downloads\claude dataannotaion projects\Model-A-Dentallabsys\DentalLabSystem\src\DentalLab.Infrastructure\bin\Debug\net8.0\DentalLab.Application.pdb
+C:\Users\medod\Downloads\claude dataannotaion projects\Model-A-Dentallabsys\DentalLabSystem\src\DentalLab.Infrastructure\bin\Debug\net8.0\DentalLab.Domain.pdb
+C:\Users\medod\Downloads\claude dataannotaion projects\Model-A-Dentallabsys\DentalLabSystem\src\DentalLab.Infrastructure\obj\Debug\net8.0\DentalLab.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\medod\Downloads\claude dataannotaion projects\Model-A-Dentallabsys\DentalLabSystem\src\DentalLab.Infrastructure\obj\Debug\net8.0\DentalLab.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medod\Downloads\claude dataannotaion projects\Model-A-Dentallabsys\DentalLabSystem\src\DentalLab.Infrastructure\obj\Debug\net8.0\DentalLab.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\medod\Downloads\claude dataannotaion projects\Model-A-Dentallabsys\DentalLabSystem\src\DentalLab.Infrastructure\obj\Debug\net8.0\DentalLab.Infrastructure.AssemblyInfo.cs
+C:\Users\medod\Downloads\claude dataannotaion projects\Model-A-Dentallabsys\DentalLabSystem\src\DentalLab.Infrastructure\obj\Debug\net8.0\DentalLab.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\medod\Downloads\claude dataannotaion projects\Model-A-Dentallabsys\DentalLabSystem\src\DentalLab.Infrastructure\obj\Debug\net8.0\DentalLa.C208EEB8.Up2Date
+C:\Users\medod\Downloads\claude dataannotaion projects\Model-A-Dentallabsys\DentalLabSystem\src\DentalLab.Infrastructure\obj\Debug\net8.0\DentalLab.Infrastructure.dll
+C:\Users\medod\Downloads\claude dataannotaion projects\Model-A-Dentallabsys\DentalLabSystem\src\DentalLab.Infrastructure\obj\Debug\net8.0\refint\DentalLab.Infrastructure.dll
+C:\Users\medod\Downloads\claude dataannotaion projects\Model-A-Dentallabsys\DentalLabSystem\src\DentalLab.Infrastructure\obj\Debug\net8.0\DentalLab.Infrastructure.pdb
+C:\Users\medod\Downloads\claude dataannotaion projects\Model-A-Dentallabsys\DentalLabSystem\src\DentalLab.Infrastructure\obj\Debug\net8.0\ref\DentalLab.Infrastructure.dll
+C:\Users\medod\Downloads\claude dataannotaion projects\DentalLabSystem_front_back Model_A\DentalLabSystem_front_back\src\DentalLab.Infrastructure\bin\Debug\net8.0\DentalLab.Infrastructure.deps.json
+C:\Users\medod\Downloads\claude dataannotaion projects\DentalLabSystem_front_back Model_A\DentalLabSystem_front_back\src\DentalLab.Infrastructure\bin\Debug\net8.0\DentalLab.Infrastructure.dll
+C:\Users\medod\Downloads\claude dataannotaion projects\DentalLabSystem_front_back Model_A\DentalLabSystem_front_back\src\DentalLab.Infrastructure\bin\Debug\net8.0\DentalLab.Infrastructure.pdb
+C:\Users\medod\Downloads\claude dataannotaion projects\DentalLabSystem_front_back Model_A\DentalLabSystem_front_back\src\DentalLab.Infrastructure\bin\Debug\net8.0\DentalLab.Application.dll
+C:\Users\medod\Downloads\claude dataannotaion projects\DentalLabSystem_front_back Model_A\DentalLabSystem_front_back\src\DentalLab.Infrastructure\bin\Debug\net8.0\DentalLab.Domain.dll
+C:\Users\medod\Downloads\claude dataannotaion projects\DentalLabSystem_front_back Model_A\DentalLabSystem_front_back\src\DentalLab.Infrastructure\bin\Debug\net8.0\DentalLab.Application.pdb
+C:\Users\medod\Downloads\claude dataannotaion projects\DentalLabSystem_front_back Model_A\DentalLabSystem_front_back\src\DentalLab.Infrastructure\bin\Debug\net8.0\DentalLab.Domain.pdb
+C:\Users\medod\Downloads\claude dataannotaion projects\DentalLabSystem_front_back Model_A\DentalLabSystem_front_back\src\DentalLab.Infrastructure\obj\Debug\net8.0\DentalLab.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\medod\Downloads\claude dataannotaion projects\DentalLabSystem_front_back Model_A\DentalLabSystem_front_back\src\DentalLab.Infrastructure\obj\Debug\net8.0\DentalLab.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medod\Downloads\claude dataannotaion projects\DentalLabSystem_front_back Model_A\DentalLabSystem_front_back\src\DentalLab.Infrastructure\obj\Debug\net8.0\DentalLab.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\medod\Downloads\claude dataannotaion projects\DentalLabSystem_front_back Model_A\DentalLabSystem_front_back\src\DentalLab.Infrastructure\obj\Debug\net8.0\DentalLab.Infrastructure.AssemblyInfo.cs
+C:\Users\medod\Downloads\claude dataannotaion projects\DentalLabSystem_front_back Model_A\DentalLabSystem_front_back\src\DentalLab.Infrastructure\obj\Debug\net8.0\DentalLab.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\medod\Downloads\claude dataannotaion projects\DentalLabSystem_front_back Model_A\DentalLabSystem_front_back\src\DentalLab.Infrastructure\obj\Debug\net8.0\DentalLa.C208EEB8.Up2Date
+C:\Users\medod\Downloads\claude dataannotaion projects\DentalLabSystem_front_back Model_A\DentalLabSystem_front_back\src\DentalLab.Infrastructure\obj\Debug\net8.0\DentalLab.Infrastructure.dll
+C:\Users\medod\Downloads\claude dataannotaion projects\DentalLabSystem_front_back Model_A\DentalLabSystem_front_back\src\DentalLab.Infrastructure\obj\Debug\net8.0\refint\DentalLab.Infrastructure.dll
+C:\Users\medod\Downloads\claude dataannotaion projects\DentalLabSystem_front_back Model_A\DentalLabSystem_front_back\src\DentalLab.Infrastructure\obj\Debug\net8.0\DentalLab.Infrastructure.pdb
+C:\Users\medod\Downloads\claude dataannotaion projects\DentalLabSystem_front_back Model_A\DentalLabSystem_front_back\src\DentalLab.Infrastructure\obj\Debug\net8.0\ref\DentalLab.Infrastructure.dll
